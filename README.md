@@ -19,3 +19,11 @@ Objetivo: O objetivo é amplificar os nosso conhecimentos nos elementos da progr
  - Polimorfismo
 
  - Persistência com Banco de Dados
+
+Foi implementado uma solução de software para venda de loja  on-line, com os seguintes requisitos:
+
+ - Seleção do produto
+ 
+ - Efetivação da compra
+ 
+ - Atualização de estoque do produto
