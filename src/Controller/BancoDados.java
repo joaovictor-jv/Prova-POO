@@ -76,7 +76,7 @@ public class BancoDados {
 
     public void excluir(String id) {
         try {
-            String query = "DELETE FROM produto WHERE id = " + id + ";";
+            String query = "DELETE FROM Produto WHERE id = " + id + ";";
             this.stm.executeUpdate(query);
             System.out.println("ID: " + id + " EXCLUIDO COM SUCESSO");
 
